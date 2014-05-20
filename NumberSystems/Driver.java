@@ -1,7 +1,8 @@
 /**
- * Name: Patrick Stearns
- * Palomar ID: 006829974
- * CSCI 210 - Stegman
+ * Author: Patrick Stearns
+ *
+ * Number System Converters
+ *
  */
 
 package numberSystemsLab;
@@ -16,13 +17,13 @@ import java.io.*;
 public class Driver {
 	public static void main(String[] args) throws IOException {
 		int choice;
-		
+
 		PrintWriter pw = new PrintWriter(new FileWriter("csis.txt"));
 		Decimal dec = new Decimal(pw);
 		Binary bin = new Binary(pw);
 		Hexadecimal hex = new Hexadecimal(pw);
 		Menu menu = new Menu(pw);
-		
+
 		do {
 			menu.display();
 			choice = menu.getSelection();
