@@ -1,0 +1,225 @@
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 1
+Please enter decimal number to convert: 65535
+65535 to Binary: 1111111111111111
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 1
+Please enter decimal number to convert: 1000000
+1000000 to Binary: 11110100001001000000
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 1
+Please enter decimal number to convert: 1234567890
+1234567890 to Binary: 1001001100101100000001011010010
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 2
+Please enter decimal number to convert: 65535
+65535 to Hexadecimal: FFFF
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 2
+Please enter decimal number to convert: 1000000
+1000000 to Hexadecimal: F4240
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 2
+Please enter decimal number to convert: 1234567890
+1234567890 to Hexadecimal: 499602D2
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 3
+Please enter binary number to convert: 01100101110011011010111000000101
+01100101110011011010111000000101 to Decimal: 1707978245
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 3
+Please enter binary number to convert: 01111111111111110010000111010011
+01111111111111110010000111010011 to Decimal: 2147426771
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 3
+Please enter binary number to convert: 00000000000000000000000000000010
+00000000000000000000000000000010 to Decimal: 2
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 4
+Please enter binary number to convert: 01100101110011011010111000000101
+01100101110011011010111000000101 to Hexadecimal: 65CDAE05
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 4
+Please enter binary number to convert: 01111111111111110010000111010011
+01111111111111110010000111010011 to Hexadecimal: 7FFF21D3
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 4
+Please enter binary number to convert: 00101011101011010111011000111010
+00101011101011010111011000111010 to Hexadecimal: 2BAD763A
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 5
+Please enter hexadecimal number to convert: 12345678
+12345678 to Decimal: 305419896
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 5
+Please enter hexadecimal number to convert: 2A3DF8A7
+2A3DF8A7 to Decimal: 708704423
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 5
+Please enter hexadecimal number to convert: 00FF00FF
+00FF00FF to Decimal: 16711935
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 6
+Please enter hexadecimal number to convert: 12345678
+12345678 to Binary: 10010001101000101011001111000
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 6
+Please enter hexadecimal number to convert: 2A3DF8A7
+2A3DF8A7 to Binary: 101010001111011111100010100111
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 6
+Please enter hexadecimal number to convert: 00FF00FF
+00FF00FF to Binary: 111111110000000011111111
+
+Number Systems Lab Menu
+Convert decimal to binary - 1
+Convert decimal to hexadecimal - 2
+Convert binary to decimal - 3
+Convert binary to hexadecimal - 4
+Convert hexadecimal to decimal - 5
+Convert hexadecimal to binary - 6
+Exit Program - 7
+Please enter choice: 7

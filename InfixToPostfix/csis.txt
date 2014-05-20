@@ -1,0 +1,40 @@
+Infix expression: 8 + 4 * 2 - 6
+Postfix conversion: 842*+6-
+Postfix evaluation: 10
+
+Infix expression: 7 * 2 - 4 * 3 + 2 * 5
+Postfix conversion: 72*43*-25*+
+Postfix evaluation: 12
+
+Infix expression: 2 * 3 * 4 - 8 + 9 / 3 / 3
+Postfix conversion: 23*4*8-93/3/+
+Postfix evaluation: 17
+
+Infix expression: 5 + 7 * 4 - 6
+Postfix conversion: 574*+6-
+Postfix evaluation: 27
+
+Infix expression: 4 * ( 3 + 2 * 4 ) - 7
+Postfix conversion: 4324*+*7-
+Postfix evaluation: 37
+
+Infix expression: ( 5 + 7 ) / ( 9 - 5 )
+Postfix conversion: 57+95-/
+Postfix evaluation: 3
+
+Infix expression: 3 * ( 5 * ( 5 - 2 ) ) - 9
+Postfix conversion: 3552-**9-
+Postfix evaluation: 36
+
+Infix expression: ( ( 5 * ( 4 + 2 ) - ( 8 + 8 ) / 2 ) - 9 ) ^ 3
+Postfix conversion: 542+*88+2/-9-3^
+Postfix evaluation: 14
+
+Infix expression: ( ( 5 + 5 * ( 6 - 2 ) + 4 ^ 2 ) * 8 )
+Postfix conversion: 5562-*+42^+8*
+Postfix evaluation: 248
+
+Infix expression: ( ( ( 3 ^ 4 ) ) )
+Postfix conversion: 34^
+Postfix evaluation: 7
+
